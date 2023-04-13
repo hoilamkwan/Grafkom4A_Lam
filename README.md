@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410040** |
+| Nama Lengkap | **Kwan Hoi Lam** |
 | Kelas | TI-4A |
